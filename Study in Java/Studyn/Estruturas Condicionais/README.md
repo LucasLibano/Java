@@ -1,12 +1,6 @@
-# 🎯 Lista 2 – Estruturas Condicionais
+# 🎯 Estruturas Condicionais
 
 Neste repositório estou registrando meus **exercícios sobre estruturas condicionais** em Java.  
-
-Este material faz parte do curso **Java Completo**, ministrado pelo **Prof. Dr. Nelio Alves** através do portal Udemy.
-
-Os exercícios foram obtidos das aulas do professor e foram resolvidos por mim.
-
----
 
 ## 🖥️ O que pratiquei
 
