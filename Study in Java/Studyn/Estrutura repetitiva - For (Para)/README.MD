@@ -6,14 +6,21 @@ Neste repositório estou registrando meus exercícios sobre estruturas repetitiv
 
 Durante esta lista de exercícios pratiquei:
 
-💻 Entrada e validação de dados
-⚙️ Processamento com repetição controlada por condição
-🔁 Estrutura de repetição for e while
-🧠 Lógica de persistência de dados até que uma condição seja satisfeita
-🔹 Uso de condicionais dentro de laços
-🔹 Contagem e classificação de ocorrências em um loop
-🔹 Controle de fluxo com encerramento condicional (break)
-🔹 Cálculo de médias, fatorial e divisores
+💻 Entrada e validação de dados.
+
+⚙️ Processamento com repetição controlada por condição.
+
+🔁 Estrutura de repetição for e while.
+
+🧠 Lógica de persistência de dados até que uma condição seja satisfeita.
+
+🔹 Uso de condicionais dentro de laços.
+
+🔹 Contagem e classificação de ocorrências em um loop.
+
+🔹 Controle de fluxo com encerramento condicional (break).
+
+🔹 Cálculo de médias, fatorial e divisores.
 
 📚 Exercícios Resolvidos
 Exercício 01 — Números Ímpares até X
@@ -53,4 +60,5 @@ Criei um programa que lê um número inteiro N e calcula todos os seus divisores
 Exercício 07 — Número, Quadrado e Cubo
 
 Descrição:
+
 Desenvolvi um programa que lê um número N e exibe, para cada número de 1 até N, o valor, seu quadrado e seu cubo, um conjunto por linha.
