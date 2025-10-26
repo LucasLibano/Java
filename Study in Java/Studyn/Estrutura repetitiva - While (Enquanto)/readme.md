@@ -39,11 +39,6 @@ Os códigos são:
 O programa encerra ao receber o código **4**, exibindo **"MUITO OBRIGADO"** e o total de abastecimentos por tipo.  
 
 ---
-
-📦 **Download do projeto**  
-Caso queira testar o código, você pode baixar o repositório completo clicando abaixo 👇  
-[⬇️ **Baixar Projeto ZIP**](../../archive/refs/heads/main.zip)
-
----
 ✍️ Autor deste repositório: **Lucas Libano**
+
 
