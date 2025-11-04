@@ -10,7 +10,7 @@ Durante o desenvolvimento desta lista de exercícios, foram praticados os seguin
 - Criação e uso de métodos com e sem retorno.
 - Aplicação de operações matemáticas em atributos.
 - Uso de estruturas condicionais para tomada de decisão.
-- Organização de código em pacotes (estrutura modular).
+- Organização de código em pacotes.
 - Sobrescrita do método toString() para exibição de dados formatados.
 - Leitura e processamento de dados via classe Scanner.
 
@@ -34,7 +34,7 @@ Entrada de dados com Scanner.
 🏪 Exercício 02 — Sistema de Controle de Estoque
 
 Descrição:
-Aplicação que gerencia as informações de um produto — nome, preço e quantidade — e permite adicionar ou remover unidades do estoque.
+Aplicação que gerencia as informações de um produto: nome, preço, quantidade e permite adicionar ou remover unidades do estoque.
 O programa também calcula e exibe o valor total do estoque após cada atualização.
 
 Conceitos abordados:
@@ -77,5 +77,6 @@ Classe dados com métodos salarioDesconto() e salarioAumento().
 Operações matemáticas com percentuais.
 
 Exibição de valores monetários formatados.
+
 
 Estrutura de entrada interativa com Scanner.
