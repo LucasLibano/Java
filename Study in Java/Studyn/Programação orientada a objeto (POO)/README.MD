@@ -15,6 +15,7 @@ Durante o desenvolvimento desta lista de exercícios, foram praticados os seguin
 - Leitura e processamento de dados via classe Scanner.
 
 📚 Exercícios Desenvolvidos
+
 🟩 Exercício 01 — Cálculo e Comparação de Áreas de Triângulos
 
 Descrição:
@@ -80,3 +81,4 @@ Exibição de valores monetários formatados.
 
 
 Estrutura de entrada interativa com Scanner.
+
