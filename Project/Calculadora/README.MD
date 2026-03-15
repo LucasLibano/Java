@@ -30,7 +30,7 @@ A calculadora também trata **divisão por zero** e entradas inválidas.
 ## Tecnologias
 
 - Linguagem: **Java**
-- IDE recomendada: **IntelliJ IDEA** ou **Eclipse**
+- IDE recomendada: **IntelliJ IDEA**
 - Estrutura de arquivos:
   - `Main.java` → contém a lógica principal da calculadora
 
