@@ -19,6 +19,7 @@ Cálculos (soma, média, porcentagem)
 Manipulação de múltiplos vetores
 
 - Lista de Exercícios
+
 🔹 1. Soma de Vetores (soma_vetores)
 
 Lê dois vetores A e B e gera um terceiro vetor C com a soma dos elementos correspondentes.
@@ -49,7 +50,7 @@ Média de altura das mulheres
 
 Quantidade de homens
 
-🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 Java 17+
 
